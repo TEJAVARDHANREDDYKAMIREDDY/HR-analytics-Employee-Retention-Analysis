@@ -152,9 +152,7 @@ HR-Analytics-Employee-Retention-Analysis
 
 ### Connect With Me
 
-- LinkedIn: www.linkedin.com/in/tejavardhanreddykamir
-- GitHub: https://github.com/yourusername
-
+- LinkedIn: www.linkedin.com/in/teja-vardhan-reddy-kamireddy-2869a3359
 ---
 
 ## Project Type
